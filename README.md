@@ -12,11 +12,11 @@ Curso de Spring
 - [x] 7 Finalizando o DAO genérico com JPA
 - [x] 8 Mapeando a entidade Person
 - [x] 9 PersonDAO, herdando GenericDAO
-- [ ] 10 PersonDAO & JPQL, Update e Delete
-- [ ]11 Mapeamento Person (1) x (1) Document
-- [ ]12 Operações de CRUD com Document
-- [ ]13 Mapeamento Person (1) x (N)
-- [ ]14 Operacões de CRUD com Phone
+- [x] 10 PersonDAO & JPQL, Update e Delete
+- [x]11 Mapeamento Person (1) x (1) Document
+- [x]12 Operações de CRUD com Document
+- [x]13 Mapeamento Person (1) x (N)
+- [x]14 Operacões de CRUD com Phone
 - [ ]15 Finalizando CRUD com Phone
 - [ ]16 Mapeando Person (N) x (N) Address
 - [ ]17 Operacões de CRUD com Address

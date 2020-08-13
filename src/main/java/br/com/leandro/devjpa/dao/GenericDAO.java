@@ -32,7 +32,7 @@ public abstract class GenericDAO <T extends Serializable>{
 	
 	
 	@SuppressWarnings("unchecked")
-	public T findone(String jpql, Object... params){
+	public T findOne(String jpql, Object... params){
 		EntityManager manager = getEntityManager();
 		manager.getTransaction().begin();
 		Query query = manager.createQuery(jpql);
